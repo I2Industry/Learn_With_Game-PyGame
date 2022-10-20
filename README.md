@@ -1,4 +1,5 @@
-# Learn_With_Game-PyGame -Institute_to_Industry -20/10/2022
+# Applications of Programming 
+# Institute_to_Industry -20/10/2022
 
 <h2>Python Setup</h2> 
 <ol>Install Python -> https://www.python.org/downloads/</ol> 
@@ -18,3 +19,6 @@
 <ul>Create Game Window</ul>
 <ul>Create Game Title and Icon</ul>
 <ul>Create Game Background Image</ul>
+
+<h3> Connect with me LinkedIn: https://www.linkedin.com/in/sivakumar-n-2b45b17b/ </h3>
+<h3> YouTube Learning Link :https://www.youtube.com/channel/UCioFUG4EIb_AXRNyRZ2239g </h3>
