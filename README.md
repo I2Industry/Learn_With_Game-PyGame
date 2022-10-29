@@ -20,5 +20,17 @@
 <ul>Create Game Title and Icon</ul>
 <ul>Create Game Background Image</ul>
 
+<h2>Algorithm -Day 2</h2>
+<ul>1.Background Music Setup</ul>
+<ul>2.Player Setup</ul>
+<ul>3.Enemy Setup</ul>
+<ul>4.Bullet Setup</ul>
+<ul>5.Player Movement</ul>
+<ul>6.Enemy Movement</ul>
+<ul>7.Bullet Movement towards enemy</ul>
+<ul>8.Bullet Collision with Enemy</ul>
+<ul>9.Score Board Setup</ul>
+<ul>10.Game Over Setup</ul>
+
 <h3> Connect with me LinkedIn: https://www.linkedin.com/in/sivakumar-n-2b45b17b/ </h3>
 <h3> YouTube Learning Link :https://www.youtube.com/channel/UCioFUG4EIb_AXRNyRZ2239g </h3>
